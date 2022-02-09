@@ -6,8 +6,7 @@
 
 * WEB-DL lover
 * PTer
-* C# lover
-* Java programmer
+* C# / Java lover
 
 ## 📫 Social
 
