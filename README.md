@@ -4,8 +4,7 @@
 
 ## ✨ About me
 
-* WEB-DL / Web Service / Streaming
-* Developer / PTer
+* Developer / Boy
 * C# / Java / JavaScript / Python
 
 ## 📫 Social
